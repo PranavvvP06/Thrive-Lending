@@ -1,0 +1,32 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thrive.Lending.Domain", "backend\Thrive.Lending.Domain\Thrive.Lending.Domain.csproj", "{5C703D07-8B2A-4322-83DE-25480B580A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thrive.Lending.Api", "backend\Thrive.Lending.Api\Thrive.Lending.Api.csproj", "{13BB47CD-A064-43C0-A477-D151030D773D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thrive.Lending.Tests", "backend\Thrive.Lending.Tests\Thrive.Lending.Tests.csproj", "{C93F6868-55D8-4960-BFE9-22F88B0A4C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C703D07-8B2A-4322-83DE-25480B580A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C703D07-8B2A-4322-83DE-25480B580A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C703D07-8B2A-4322-83DE-25480B580A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C703D07-8B2A-4322-83DE-25480B580A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BB47CD-A064-43C0-A477-D151030D773D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BB47CD-A064-43C0-A477-D151030D773D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BB47CD-A064-43C0-A477-D151030D773D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BB47CD-A064-43C0-A477-D151030D773D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93F6868-55D8-4960-BFE9-22F88B0A4C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93F6868-55D8-4960-BFE9-22F88B0A4C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93F6868-55D8-4960-BFE9-22F88B0A4C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93F6868-55D8-4960-BFE9-22F88B0A4C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
+

@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+frontend/node_modules/
+frontend/dist/
+backend/Thrive.Lending.Api/thrive-lending.db*
+.DS_Store
+*.user
+*.suo
+
