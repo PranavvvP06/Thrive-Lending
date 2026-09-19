@@ -1,4 +1,5 @@
 using Thrive.Lending.Domain.Decisions;
+using Xunit;
 
 namespace Thrive.Lending.Tests;
 
