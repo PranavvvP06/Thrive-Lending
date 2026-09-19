@@ -24,13 +24,10 @@ export function AppHeader({ activePage, onNavigate }: AppHeaderProps) {
           onNavigate("dashboard");
         }}
       >
-        <span className="brand__mark" aria-hidden="true">
-          <svg viewBox="0 0 40 40" role="img">
-            <path d="M6 22c7-12 18-15 27-7-6-1-10 2-12 6 5-1 9 0 12 3-10 9-21 8-27-2Z" />
-            <circle cx="27" cy="14" r="1.4" />
-          </svg>
+        <span className="brand__original" aria-hidden="true">
+          <img src="/thrive-original.png" alt="" />
         </span>
-        <span className="brand__wordmark">thrive<span>lending</span></span>
+        <span className="brand__descriptor">lending</span>
       </a>
 
       <nav className="primary-nav" aria-label="Primary navigation">
